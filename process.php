@@ -5,6 +5,7 @@
 // Copyright: 2013, Sebastian Lenczewski, Algonquin College
 // Desc: This file contains PHP code that will process  user input
 // 			and the output of the image forms and links in the app
+// Submitted by: Meghna Meghna
 ///////////////////////////////////////////////////////////////////
 
 	//session_start();

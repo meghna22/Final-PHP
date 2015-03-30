@@ -5,6 +5,7 @@
 // Copyright: 2013, Sebastian Lenczewski, Algonquin College
 // Desc: This file contains a class to manage an image of graphical
 // 			tiles that will be used for drawing a map.
+//Submitted by Meghna Meghna
 ///////////////////////////////////////////////////////////////////
 
 	class TileSet

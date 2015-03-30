@@ -5,6 +5,7 @@
 // Copyright: 2013, Sebastian Lenczewski, Algonquin College
 // Desc: This file contains a class to manage the tile set, the  
 // 			creation of the output.png file, and buttons.
+// Submitted by : Meghna Meghna
 ///////////////////////////////////////////////////////////////////
 	
 	

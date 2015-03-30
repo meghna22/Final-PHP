@@ -7,6 +7,7 @@
 // 			It includes the TileSet and MapOutput classes, the data
 //			processing functions, and then runs this applications 
 //			process that will generate the html $output string
+// Submitted by: Meghna Meghna
 ///////////////////////////////////////////////////////////////////
 	session_start();
 	require ("tileset.php");
